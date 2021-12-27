@@ -1,0 +1,18 @@
+h1,
+p,
+ul { font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h1 {
+    font-size: 10px;
+    color: green;
+}
+p {
+    font-size: 14px;
+    color: green;
+    font-weight: told;
+}
+ul {
+    font-size: 14px;
+    color: darkgreen;
+}
